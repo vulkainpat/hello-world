@@ -1,5 +1,5 @@
 # hello-world
-Ceci est un test sur ##GitHub
+Ceci est un Test sur **GitHub**
 
 - Créer des commits
 - Add des pushs
@@ -7,4 +7,5 @@ Ceci est un test sur ##GitHub
 - Créer un pull Request
 - Faire un merge
 
-Etc...
+Avec une utilisation de Markdown
+[Etc...] 
